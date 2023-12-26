@@ -5,7 +5,7 @@
 - 👀 I’m interested in becoming a Professional Cybersecurity personnel
 - 🌱 I’m currently learning python for pentesting, CS50(Web Development with Python and Java) and more
 - 💞️ I’m looking to collaborate with Cybersecurity Experts and Network Security Management 
-- 📫 How to reach me on facebook, Isaac James(Prof Zeeko)
+- 📫 How to reach me on facebook, Isaac James(CYBERPROF)
 
 <!---
 jenlend/jenlend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
